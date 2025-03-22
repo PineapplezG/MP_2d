@@ -12,12 +12,6 @@ public class PlayerMovement : NetworkBehaviour
     public Transform respawnPoint;
     public CinemachineCamera playerCamera;
     
-    private readonly NetworkVariable<Quaternion> _networkRotation = new NetworkVariable<Quaternion>(
-        Quaternion.identity, 
-        NetworkVariableReadPermission.Everyone, 
-        NetworkVariableWritePermission.Owner
-    );
-    
     [Header("Movement")]
     public float moveSpeed = 5f;
     public float horizontalMovement;
@@ -69,7 +63,6 @@ public class PlayerMovement : NetworkBehaviour
     {
         if (!IsOwner)
         {
-            transform.rotation = _networkRotation.Value;
             return;
         }
         
@@ -212,7 +205,6 @@ public class PlayerMovement : NetworkBehaviour
             _isFacingRight = !_isFacingRight;
             Quaternion newRotation = Quaternion.Euler(0f, _isFacingRight ? 0f : 180f, 0f);
             transform.rotation = newRotation;
-            _networkRotation.Value = newRotation; // Instantly sync rotation
         }
     }
     
