@@ -10,7 +10,6 @@ Library: C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\BurstOutput\D
 --linker-options=PdbAltPath="MP_2d_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Library\Burst
 --output=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -127,7 +126,6 @@ Library: C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\BurstOutput\D
 --linker-options=PdbAltPath="MP_2d_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Library\Burst
 --output=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -246,7 +244,6 @@ Library: C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\BurstOutput\D
 --linker-options=PdbAltPath="MP_2d_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Library\Burst
 --output=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -267,7 +264,6 @@ Library: C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\BurstOutput\D
 --linker-options=PdbAltPath="MP_2d_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Library\Burst
 --output=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -286,7 +282,6 @@ Library: C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\BurstOutput\D
 --linker-options=PdbAltPath="MP_2d_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Library\Burst
 --output=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -370,7 +365,6 @@ Library: C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\BurstOutput\D
 --linker-options=PdbAltPath="MP_2d_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\Burst
---debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Library\Burst
 --output=C:\Users\Lukas_School\UnityProjects\MP 2d platformer\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
